@@ -1,0 +1,12 @@
+.col{
+  
+    border: round 1px solid rgb(202, 23, 23);
+    margin-top: 2rem;
+    font-size: large;
+    font: bolder;
+    text-align: center;
+}
+.button{
+    margin-left: 13rem;
+    width: 8rem;
+}
